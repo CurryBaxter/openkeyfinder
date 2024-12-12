@@ -5,7 +5,7 @@ import csv
 import time
 from collections import defaultdict
 
-GITHUB_COOKIE_SESSION = "hpzzHWIjslEyNCTMNgIJfmY3JIK2nMAv_XoW1xlrEWRZxekK"  # Replace with your GitHub session cookie
+GITHUB_COOKIE_SESSION = "YOUR_GITHUB_SESSION_COOKIE"  # Replace with your GitHub session cookie
 
 print(r"""
 \033[94m 
