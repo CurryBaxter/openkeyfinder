@@ -3,7 +3,7 @@ OpenKeyFinder is a Proof of Concept tool designed to retrieve OpenAI API Keys ex
 
 ## Requirements
 ```
-pip3 install requests openai
+pip3 install -r requirements.txt
 ```
 
 ## Usage
